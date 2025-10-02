@@ -1,0 +1,2 @@
+git config --global user.name "username" [to add  ur username]
+git config --global user.email "email" [to add  ur email]               in git  bush
