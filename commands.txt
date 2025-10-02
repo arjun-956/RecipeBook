@@ -1,2 +1,11 @@
 git config --global user.name "username" [to add  ur username]
 git config --global user.email "email" [to add  ur email]               in git  bush
+
+git init [to initialize an empty git repository]
+
+git stats [to check to untracked files]
+
+git add -A     [to add untracked files to stagging area]
+
+git commit -m "commit message required"   [to move staged files to local repositery]
+
