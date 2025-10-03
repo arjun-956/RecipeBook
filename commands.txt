@@ -14,3 +14,8 @@ git clone remote repositery exact copy local work space kittum
 git log to get details
 
 git branch is master branch
+
+git push [localrepositery=>remote repositery]
+
+git pull [remote repositery=>changes=>lws]
+
