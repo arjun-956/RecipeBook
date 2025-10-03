@@ -21,3 +21,6 @@ git pull [remote repositery=>changes=>lws]
 
 git remote add remote_name remote_path [adding remote]
 
+git branch [to list all branch]
+
+git remote -v [to list all remote]
