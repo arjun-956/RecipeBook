@@ -12,3 +12,5 @@ git commit -m "commit message required"   [to move staged files to local reposit
 git clone remote repositery exact copy local work space kittum
 
 git log to get details
+
+git branch is master branch
