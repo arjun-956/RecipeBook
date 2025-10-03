@@ -15,7 +15,7 @@ git log to get details
 
 git branch is master branch
 
-git push [localrepositery=>remote repositery]
+git push [localrepositery=>remote repositery]     git push remote_name branch[push]
 
 git pull [remote repositery=>changes=>lws]
 
